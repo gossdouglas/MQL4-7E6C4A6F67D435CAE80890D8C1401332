@@ -1,0 +1,66 @@
+0	09:36:29.751	Expert Duto\Duto_v01 : loaded successfully
+0	09:37:33.565	TestGenerator: spread set to 2
+2	09:37:33.596	2024.05.30 00:00:00  Duto_v01 inputs: MAFastPeriod=10; MAFastShift=0; MAFastMethod=0; MAFastAppliedPrice=0; MASlowPeriod=25; MASlowShift=0; MASlowMethod=0; MASlowAppliedPrice=0; PSARStopStep=0.04; PSARStopMax=0.4; RiskDefaultSize=2; DefaultLotSize=1; RiskBase=2; MaxRiskPerTrade=2; MinLotSize=0.01; MaxLotSize=100; UseTradingHours=0; TradingHourStart=7; TradingHourEnd=19; StopLossMode=0; DefaultStopLoss=0; MinStopLoss=0; MaxStopLoss=5000; TakeProfitMode=0; DefaultTakeProfit=0; MinTakeProfit=0; MaxTakeProfit=5000; UseTrailingStop=0; MagicNumber=0; Slippage=5; MaxSpread=100; 
+0	09:37:33.861	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,H1: 6
+0	09:37:33.861	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,H1: plot 1 indicator init()
+0	09:37:37.173	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M15: 6
+0	09:37:37.173	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M15: plot 1 indicator init()
+0	09:37:37.766	2024.05.30 00:01:00  Custom indicator _Custom\Duto\duto_chart_indicators_v0.5 EURUSD,M1: loaded successfully
+0	09:37:37.782	2024.05.30 00:01:00  Custom indicator _Custom\Duto\macd_color_indicator_plot1_v0.9 EURUSD,M1: loaded successfully
+0	09:37:37.860	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M1: 6
+0	09:37:37.860	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M1: plot 1 indicator init()
+0	09:37:40.609	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M5: 6
+0	09:37:40.609	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M5: plot 1 indicator init()
+0	09:37:40.719	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M1: 6
+0	09:37:40.719	2024.05.30 00:01:00  macd_color_indicator_plot1_v0.9 EURUSD,M1: plot 1 indicator init()
+2	09:37:43.828	2024.05.30 00:12:00  Duto_v01 EURUSD,M1: open #1 sell 1.00 EURUSD at 1.08019 ok
+0	09:37:43.828	2024.05.30 00:12:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 1 submitted: Command 1 Volume 1.0 Open 1.08019 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:37:45.593	2024.05.30 00:28:00  Duto_v01 EURUSD,M1: close #1 sell 1.00 EURUSD at 1.08019 at price 1.08008
+0	09:37:45.593	2024.05.30 00:28:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 1 closed at price 1.08008
+2	09:38:30.535	2024.05.30 03:26:00  Duto_v01 EURUSD,M1: open #2 sell 1.00 EURUSD at 1.08008 ok
+0	09:38:30.535	2024.05.30 03:26:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 2 submitted: Command 1 Volume 1.0 Open 1.08008 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:38:32.190	2024.05.30 03:38:00  Duto_v01 EURUSD,M1: close #2 sell 1.00 EURUSD at 1.08008 at price 1.08005
+0	09:38:32.190	2024.05.30 03:38:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 2 closed at price 1.08005
+2	09:38:35.752	2024.05.30 03:52:00  Duto_v01 EURUSD,M1: open #3 sell 1.00 EURUSD at 1.08001 ok
+0	09:38:35.752	2024.05.30 03:52:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 3 submitted: Command 1 Volume 1.0 Open 1.08001 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:38:38.969	2024.05.30 04:15:00  Duto_v01 EURUSD,M1: close #3 sell 1.00 EURUSD at 1.08001 at price 1.07990
+0	09:38:38.969	2024.05.30 04:15:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 3 closed at price 1.0799
+2	09:38:44.046	2024.05.30 04:35:00  Duto_v01 EURUSD,M1: open #4 sell 1.00 EURUSD at 1.07988 ok
+0	09:38:44.046	2024.05.30 04:35:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 4 submitted: Command 1 Volume 1.0 Open 1.07988 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:38:45.608	2024.05.30 04:46:00  Duto_v01 EURUSD,M1: close #4 sell 1.00 EURUSD at 1.07988 at price 1.07973
+0	09:38:45.608	2024.05.30 04:46:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 4 closed at price 1.07973
+2	09:39:13.586	2024.05.30 06:31:00  Duto_v01 EURUSD,M1: open #5 sell 1.00 EURUSD at 1.07984 ok
+0	09:39:13.586	2024.05.30 06:31:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 5 submitted: Command 1 Volume 1.0 Open 1.07984 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:39:16.304	2024.05.30 06:48:00  Duto_v01 EURUSD,M1: close #5 sell 1.00 EURUSD at 1.07984 at price 1.07954
+0	09:39:16.304	2024.05.30 06:48:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 5 closed at price 1.07954
+2	09:39:20.006	2024.05.30 07:02:00  Duto_v01 EURUSD,M1: open #6 sell 1.00 EURUSD at 1.07965 ok
+0	09:39:20.006	2024.05.30 07:02:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 6 submitted: Command 1 Volume 1.0 Open 1.07965 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:39:30.815	2024.05.30 08:07:00  Duto_v01 EURUSD,M1: close #6 sell 1.00 EURUSD at 1.07965 at price 1.07981
+0	09:39:30.815	2024.05.30 08:07:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 6 closed at price 1.07981
+2	09:39:47.599	2024.05.30 09:01:00  Duto_v01 EURUSD,M1: open #7 sell 1.00 EURUSD at 1.07954 ok
+0	09:39:47.599	2024.05.30 09:01:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 7 submitted: Command 1 Volume 1.0 Open 1.07954 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:39:51.988	2024.05.30 09:30:00  Duto_v01 EURUSD,M1: close #7 sell 1.00 EURUSD at 1.07954 at price 1.07905
+0	09:39:51.988	2024.05.30 09:30:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 7 closed at price 1.07905
+2	09:41:41.304	2024.05.30 15:12:00  Duto_v01 EURUSD,M1: open #8 buy 1.00 EURUSD at 1.08162 ok
+0	09:41:41.304	2024.05.30 15:12:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 8 submitted: Command 0 Volume 1.0 Open 1.08162 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:41:46.163	2024.05.30 15:35:00  Duto_v01 EURUSD,M1: close #8 buy 1.00 EURUSD at 1.08162 at price 1.08178
+0	09:41:46.163	2024.05.30 15:35:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 8 closed at price 1.08178
+2	09:42:27.920	2024.05.30 17:24:00  Duto_v01 EURUSD,M1: open #9 buy 1.00 EURUSD at 1.08295 ok
+0	09:42:27.920	2024.05.30 17:24:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 9 submitted: Command 0 Volume 1.0 Open 1.08295 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:42:36.449	2024.05.30 18:00:00  Duto_v01 EURUSD,M1: close #9 buy 1.00 EURUSD at 1.08295 at price 1.08301
+0	09:42:36.449	2024.05.30 18:00:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 9 closed at price 1.08301
+2	09:43:06.959	2024.05.30 19:17:00  Duto_v01 EURUSD,M1: open #10 buy 1.00 EURUSD at 1.08404 ok
+0	09:43:06.959	2024.05.30 19:17:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 10 submitted: Command 0 Volume 1.0 Open 1.08404 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:43:12.910	2024.05.30 19:40:00  Duto_v01 EURUSD,M1: close #10 buy 1.00 EURUSD at 1.08404 at price 1.08430
+0	09:43:12.910	2024.05.30 19:40:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 10 closed at price 1.0843
+2	09:43:59.109	2024.05.30 21:23:00  Duto_v01 EURUSD,M1: open #11 buy 1.00 EURUSD at 1.08417 ok
+0	09:43:59.109	2024.05.30 21:23:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 11 submitted: Command 0 Volume 1.0 Open 1.08417 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:43:59.343	2024.05.30 21:24:00  Duto_v01 EURUSD,M1: close #11 buy 1.00 EURUSD at 1.08417 at price 1.08411
+0	09:43:59.343	2024.05.30 21:24:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 11 closed at price 1.08411
+2	09:43:59.749	2024.05.30 21:25:00  Duto_v01 EURUSD,M1: open #12 buy 1.00 EURUSD at 1.08419 ok
+0	09:43:59.749	2024.05.30 21:25:00  Duto_v01 EURUSD,M1: TRADE - OPEN SUCCESS - Order 12 submitted: Command 0 Volume 1.0 Open 1.08419 Stop 0.0 Take 0.0 Expiration 1970.01.01 00:00:00
+2	09:44:03.404	2024.05.30 21:40:00  Duto_v01 EURUSD,M1: close #12 buy 1.00 EURUSD at 1.08419 at price 1.08412
+0	09:44:03.404	2024.05.30 21:40:00  Duto_v01 EURUSD,M1: TRADE - CLOSE SUCCESS - Order 12 closed at price 1.08412
+0	09:45:08.170	EURUSD,M1: 1440 tick events (1439 bars, 3859 bar states) processed in 0:07:34.563 (total time 0:07:42.203)
+0	09:45:08.217	macd_color_indicator_plot1_v0.9 EURUSD,M1: 6
+0	09:45:08.217	macd_color_indicator_plot1_v0.9 EURUSD,M1: plot 1 indicator init()
